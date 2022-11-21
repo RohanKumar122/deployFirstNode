@@ -1,0 +1,19 @@
+add HOST ----> 
+const port =process.env.PORT ||3000;
+
+
+git init
+// create .gitignore  ---> add node_modules
+
+git add .
+
+git commit -m "My app" 
+
+
+
+>>>>>> Heruko
+heroku login
+heroku create api-demo
+git remote 
+push heroku master
+
