@@ -15,7 +15,8 @@ git commit -m "My app"
 heroku login
 heroku create api-demo
 git remote 
-push heroku master
+git push -u origin master
+git push heroku master
 
 
 

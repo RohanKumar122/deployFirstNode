@@ -2,3 +2,18 @@ body{
     background-color: rgb(221, 173, 173);
 }
 
+#click-btn{
+    cursor: pointer;
+    font-family: cursive;
+    font-weight: bold;
+   padding: 10px;
+   border-radius: 5px;
+
+}
+
+#click-btn:hover{
+    color: rgb(236, 235, 232);
+    background: rgb(118, 137, 247);
+    transition-delay: 5ms;
+    cursor: pointer;
+}
