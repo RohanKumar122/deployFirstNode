@@ -17,3 +17,11 @@ heroku create api-demo
 git remote 
 push heroku master
 
+
+
+*****************************************/
+GIT command
+
+git remote add origin <link>
+
+git push -u origin master
